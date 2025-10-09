@@ -1,9 +1,6 @@
-<!-- 🌟 Animated Header -->
-<!-- Header capsule -->
-<!-- Header capsule -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Hey%20there%20👋%20I'm%20Dharshini%20Priya%20A!&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
 
-<!-- Typing animation for roles with I am a fixed -->
 <p align="center" style="font-size:32px; font-weight:bold; color:#00E6FF;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;Prompt+Engineer&repeat=true&backDelay=1500" />
 </p>
