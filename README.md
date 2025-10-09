@@ -1,27 +1,85 @@
-## Hi there I am Dharshini Priya A👋
+<!-- 🌟 Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Hey%20there%20👋%20I'm%20Dharshini%20Priya%20A!&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=fff&desc=AI%20%7C%20Full%20Stack%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&animation=twinkling" width="100%"/>
 
-# 💫 About Me:
-🎓 B.Tech IT Student passionate about AI, Full Stack Development, and UI/UX Design<br>💡 Love building creative digital solutions with real-world impact  <br>🌱 Currently exploring  Machine Learning, Human Computer Interaction, and Tech for Good  <br>🎯 Aim: To create software that blends intelligence and creativity  <br>💬 Motto: "Code with creativity, build with purpose, and design with empathy."
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=700&lines=B.Tech+IT+Student+%7C+AI+and+UX+Explorer;Passionate+about+Building+Human-Centered+Solutions;Designing+with+Empathy+💙;Coding+with+Creativity+💻" />
+</p>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharshini-priya-a-74a446290/)   
+## 💫 About Me  
+🎓 **IT Undergrad** who loves combining *AI, creativity, and design thinking*  
+💡 Passionate about **Machine Learning**, **Digital Twins**, and **Tech for Social Impact**  
+🎨 Love crafting interfaces that **feel alive** — blending **functionality + art**  
+🌱 Constantly exploring **new ways to make tech human-centered**  
+✨ Motto: *“Code with creativity, build with purpose, design with empathy.”*  
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dharshinipriya.a426)     
+---
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharshinipriya.a426@gmail.com) 
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/dharshini-priya-a-74a446290/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://medium.com/@dharshinipriya.a426"><img src="https://skillicons.dev/icons?i=medium" height="45"/></a>
+  <a href="mailto:dharshinipriya.a426@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dharshu2303&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dharshu2303&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dharshu2303&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dharshu2303&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🧠 Tech Playground  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,figma,mysql,opencv,nodejs" height="50" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dharshu2303&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github.com/rodrigograca31/rodrigograca31/raw/master/assets/line.gif" width="80%">
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=dharshu2303&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+## ⚡ GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshu2303&theme=radical&hide_border=true&ring=00E6FF&fire=FF69B4" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dharshu2303&show_icons=true&theme=radical&hide_border=true&icon_color=00E6FF&title_color=FF69B4" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshu2303&layout=compact&theme=radical&hide_border=true&langs_count=6&title_color=00E6FF" height="180em" />
+</p>
+
+---
+
+## 🏆 Achievements & Highlights  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dharshu2303&theme=dracula&margin-w=15&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+## 🐍 Contribution Flow  
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="80%"/>
+</p>
+
+---
+
+## 🌈 Fun Zone  
+
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=dharshu2303&data=followers,repositories,stars,commits&theme=nautilus" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="200" />
+</p>
+
+---
+
+## 🌸 Let’s Create Magic Together  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Dream+it.+Design+it.+Code+it.+💫" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
