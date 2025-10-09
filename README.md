@@ -8,11 +8,7 @@
 ---
 
 ## 💫 About Me  
-🎓 **IT Undergrad** who loves combining *AI, creativity, and design thinking*  
-💡 Passionate about **Machine Learning**, **Digital Twins**, and **Tech for Social Impact**  
-🎨 Love crafting interfaces that **feel alive** — blending **functionality + art**  
-🌱 Constantly exploring **new ways to make tech human-centered**  
-✨ Motto: *“Code with creativity, build with purpose, design with empathy.”*  
+🎓 B.Tech IT Student passionate about AI, Full Stack Development, and UI/UX Design<br>💡 Love building creative digital solutions with real-world impact  <br>🌱 Currently exploring  Machine Learning, Human Computer Interaction, and Tech for Good  <br>🎯 Aim: To create software that blends intelligence and creativity  <br>💬 Motto: "Code with creativity, build with purpose, and design with empathy."  
 
 ---
 
