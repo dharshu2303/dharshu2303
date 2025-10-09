@@ -59,17 +59,6 @@
 
 ---
 
-## 🌈 Fun Zone  
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=dharshu2303&data=followers,repositories,stars,commits&theme=nautilus" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="200" />
-</p>
-
----
 
 ## 🌸 Let’s Create Magic Together  
 <p align="center">
