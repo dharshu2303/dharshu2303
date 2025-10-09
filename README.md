@@ -1,21 +1,25 @@
 <!-- 🌟 Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Hey%20there%20👋%20I'm%20Dharshini%20Priya%20A!&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=fff&desc=AI%20%7C%20Full%20Stack%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&animation=twinkling" width="100%"/>
+<!-- Header capsule -->
+<!-- Header capsule -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Hey%20there%20👋%20I'm%20Dharshini%20Priya%20A!&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=700&lines=B.Tech+IT+Student+%7C+AI+and+UX+Explorer;Passionate+about+Building+Human-Centered+Solutions;Designing+with+Empathy+💙;Coding+with+Creativity+💻" />
+<!-- Typing animation for roles with I am a fixed -->
+<p align="center" style="font-size:32px; font-weight:bold; color:#00E6FF;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;Prompt+Engineer&repeat=true&backDelay=1500" />
 </p>
+
 
 ---
 
 ## 💫 About Me  
-🎓 B.Tech IT Student passionate about AI, Full Stack Development, and UI/UX Design<br>💡 Love building creative digital solutions with real-world impact  <br>🌱 Currently exploring  Machine Learning, Human Computer Interaction, and Tech for Good  <br>🎯 Aim: To create software that blends intelligence and creativity  <br>💬 Motto: "Code with creativity, build with purpose, and design with empathy."  
+🎓 B.Tech IT Student passionate about AI, Full Stack Development, and UI/UX Design <br>💡 Love building creative digital solutions with real-world impact  <br>🌱 Currently exploring  Machine Learning, Human Computer Interaction, and Tech for Good  <br>🎯 Aim: To create software that blends intelligence and creativity  <br>💬 Motto: "Code with creativity, build with purpose, and design with empathy."  
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/dharshini-priya-a-74a446290/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="https://medium.com/@dharshinipriya.a426"><img src="https://skillicons.dev/icons?i=medium" height="45"/></a>
+  <a href="https://www.linkedin.com/in/dharshini-priya-a-74a446290/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@dharshinipriya.a426"><img src="https://logowik.com/content/uploads/images/medium-icon239.logowik.com.webp" height="45"/></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:dharshinipriya.a426@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </p>
 
@@ -23,7 +27,7 @@
 
 ## 🧠 Tech Playground  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,figma,mysql,opencv,nodejs" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,figma,mysql,opencv,nodejs,bootstrap,java,c,php" height="50" />
 </p>
 
 <p align="center">
