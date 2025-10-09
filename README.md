@@ -39,7 +39,7 @@
 ## ⚡ GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshu2303&theme=radical&hide_border=true&ring=00E6FF&fire=FF69B4" height="180em"/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=dharshu2303&show_icons=true&theme=radical&hide_border=true&icon_color=00E6FF&title_color=FF69B4" height="180em"/>
 </p>
 
