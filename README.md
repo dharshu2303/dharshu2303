@@ -41,7 +41,7 @@
 ## 🧠 Tech Playground
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,bootstrap,react,nodejs,php,mysql,opencv,figma" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,bootstrap,react,nodejs,php,mysql,figma" height="50" />
 </p>
 
 <p align="center">
